@@ -245,7 +245,7 @@ export const content = {
             subtitle: "Hello Dear,This is a brief introduction about me",
             image1: hireme_person,
             image2: hireme_person,
-            para: "I'm a junior software engineer with a passion for building software, solving real-life problems, and exploring new technologies. I enjoy learning from others and sharing my knowledge. I've had the opportunity to intern at Oracle and work with two startups, which have greatly enriched my experience.",
+            para: "I'm an AI Engineer passionate about developing intelligent systems, solving real-world problems, and exploring cutting-edge AI technologies. I specialize in LLMs, AI Agents, Generative AI, and Retrieval-Augmented Generation (RAG). With experience leading AI projects and working with startups, I continuously strive to innovate and push the boundaries of AI-driven solutions.",
             btnText: "More about me",
         }, Contact: {
             title: "Contact Me",
