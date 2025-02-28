@@ -194,16 +194,16 @@ export const content = {
             },],
         }, services: {
             title: "Services", subtitle: "WHAT I OFFER", service_content: [{
-                title: "Web Development",
-                para: "building web applications and websites with modern technologies and best practices is my passion and I can help you to do that with my experience in this field",
+                title: " LLMs (Large Language Models) Development",
+                para: "I specialize in developing and fine-tuning Large Language Models (LLMs) to address a variety of tasks like NLP, text generation, and automated reasoning. Leveraging Python and cutting-edge technologies, I ensure your AI-driven applications perform at their best.",
                 logo: services_logo1,
             }, {
-                title: "Cloud architect",
-                para: "I can help you to design and implement cloud solutions that are secure, scalable, and cost-effective",
+                title: "Agentic Systems & AI Workflow Automation",
+                para: "With a focus on agentic AI systems, I build intelligent workflows that can adapt, learn, and improve over time. Using Python and automation frameworks, I create solutions that handle repetitive tasks, making your operations more efficient and scalable.",
                 logo: services_logo2,
             }, {
-                title: "DevOps",
-                para: "I can help you to automate your deployment process and make it more reliable and resilient",
+                title: "Data Science & Machine Learning Solutions",
+                para: "Using Python, I apply data science techniques and machine learning algorithms to extract insights, predict trends, and create data-driven solutions. Whether it’s data cleaning, modeling, or visualization, I turn complex data into actionable insights to support decision-making.",
                 logo: services_logo3,
             },],
         }, Projects: {
@@ -337,15 +337,15 @@ export const content = {
             ],
         }, services: {
             title: "Les services", subtitle: "ce que j'offre", service_content: [{
-                title: "Développement web",
+                title: " LLMs (Large Language Models) Developmen",
                 para: "Construire des applications web et des sites web avec des technologies modernes et les meilleures pratiques est ma passion et je peux vous aider à le faire avec mon expérience dans ce domaine",
                 logo: services_logo1,
             }, {
-                title: "Architecte cloud",
+                title: "Agentic Systems & AI Workflow Automation",
                 para: "Je peux vous aider à concevoir et à mettre en œuvre des solutions cloud sécurisées, évolutives et rentables",
                 logo: services_logo2,
             }, {
-                title: "DevOps",
+                title: " Data Science & Machine Learning Solutions",
                 para: "Je peux vous aider à automatiser votre processus de déploiement et à le rendre plus fiable et résilient",
                 logo: services_logo3,
             },],
