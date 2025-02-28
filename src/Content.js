@@ -72,13 +72,13 @@ const Nav = [{
 const social_media = [{
     text: "sialsanwal885@gmail.com", icon: GrMail, link: "mailto:sialsanwal885@gmail.com",
 }, {
-    text: "Sanwal Khan", icon: AiFillLinkedin, link: "https://www.linkedin.com/in/sohaibmanah/",
+    text: "Sanwal Khan", icon: AiFillLinkedin, link: "https://www.linkedin.com/in/sanwal-khan/",
 }, {
     text: "sial-sanwal", icon: AiFillGithub, link: "https://github.com/sial-sanwal/",
-}, {
-    text: "sohaib M", icon: SiUpwork, link: "https://www.upwork.com/freelancers/~010a44723a9108a1bc",
-}, {
-    text: "sohaibesohaib", icon: TbBrandFiverr, link: "https://www.fiverr.com/sohaibesohaib",
+// }, {
+//     text: "sohaib M", icon: SiUpwork, link: "https://www.upwork.com/freelancers/~010a44723a9108a1bc",
+// }, {
+//     text: "sohaibesohaib", icon: TbBrandFiverr, link: "https://www.fiverr.com/sohaibesohaib",
 },];
 const cert_content = [{
     title: "Oracle Cloud Infrastructure 2024 Certified Developer Professional",
