@@ -24,12 +24,12 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import cert1 from "./assets/images/Certifications/cert1.png";
-import cert2 from "./assets/images/Certifications/cert2.png";
-import cert5 from "./assets/images/Certifications/cert5.png";
-import cert6 from "./assets/images/Certifications/cert6.png";
-import cert7 from "./assets/images/Certifications/cert7.png";
-import cert8 from "./assets/images/Certifications/cert8.jpeg";
+import cert1 from "./assets/images/Certifications/cert1.jpeg";
+import cert2 from "./assets/images/Certifications/cert2.jpg";
+import cert5 from "./assets/images/Certifications/cert5.jpg";
+import cert6 from "./assets/images/Certifications/cert6.jpg";
+import cert7 from "./assets/images/Certifications/cert7.jpg";
+import cert8 from "./assets/images/Certifications/cert8.jpg";
 
 import bricoll from "./assets/images/Projects/bricoll.webp";
 import aman from "./assets/images/Projects/aman.png";
