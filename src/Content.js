@@ -135,7 +135,7 @@ export const content = {
             //btnLink: "https://www.canva.com/design/DAFltazUEpM/1HUGhv9zLupr7TU3NbZ68w/view",
             image: Hero_person,
             hero_content: [{
-                count: `+${new Date(new Date() - new Date("2024-01-01")).getFullYear() - 1970}`,
+                count: `+${new Date(new Date() - new Date("2022-01-01")).getFullYear() - 1970}`,
                 text: "Years of Experience in Web development And  Cloud ",
             }, {
                 count: "10+", text: "Projects Worked in my career",
