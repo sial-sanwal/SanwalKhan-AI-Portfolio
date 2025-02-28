@@ -136,7 +136,7 @@ export const content = {
             image: Hero_person,
             hero_content: [{
                 count: `+${new Date(new Date() - new Date("2022-01-01")).getFullYear() - 1970}`,
-                text: "Years of Experience in Web development And  Cloud ",
+                text: "Years of experience in AI development, GenAI & cloud-based AI solutions.",
             }, {
                 count: "10+", text: "Projects Worked in my career",
             },],
@@ -150,7 +150,7 @@ export const content = {
             }, {
                 name: "TypeScript | JavaScript", para: "with React & Next js & Node js", logo: typescript,
             }, {
-                name: "Python", para: "in Graph theory", logo: python,
+                name: "Python", para: "Python with microservices architecture, Flask, and FastAPI.", logo: python,
             }, {
                 name: "Node js | Express.js ", para: "with  Rest Api |  GraphQL | Grpc", logo: nodejs,
             }, {
