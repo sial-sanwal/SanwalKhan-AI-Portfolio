@@ -70,11 +70,11 @@ const Nav = [{
 },];
 
 const social_media = [{
-    text: "souhaibemanah@gmail.com", icon: GrMail, link: "mailto:souhaibemanah@gmail.com",
+    text: "sialsanwal885@gmail.com", icon: GrMail, link: "mailto:sialsanwal885@gmail.com",
 }, {
     text: "Sanwal Khan", icon: AiFillLinkedin, link: "https://www.linkedin.com/in/sohaibmanah/",
 }, {
-    text: "sohaibMan", icon: AiFillGithub, link: "https://github.com/sohaibMan",
+    text: "sial-sanwal", icon: AiFillGithub, link: "https://github.com/sial-sanwal/",
 }, {
     text: "sohaib M", icon: SiUpwork, link: "https://www.upwork.com/freelancers/~010a44723a9108a1bc",
 }, {
