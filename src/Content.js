@@ -112,16 +112,16 @@ const cert_content = [{
 }, {
     title: "Google Cloud Fundamentals: Core Infrastructure", link: 'https://coursera.org/share/5a6a00aada19ba62d54079c48b48a7bc', image: cert8
 }, {
-    title: "Generative AI for Everyone", image: cert2, link: "https://learn.mongodb.com/c/lkxA2J6RTE2Ash0IL--EtA",
+    title: "Generative AI for Everyone", image: cert2, link: "https://coursera.org/share/3616aa58e4900a0802944669d9410659",
 }, {
     title: "Python Data Structures",
-    link: "https://badgr.com/public/assertions/JKnbd3dAQwCPpg3dxr1n_A?identity__email=sohaib.manah@etu.uae.ac.ma",
+    link: "https://coursera.org/share/090f75c517c13d2c9209daf3fc8dd4f5",
     image: cert5,
 }, {
-    title: "Structuring Machine Learning Projects", link: "https://www.hackerrank.com/certificates/3a683fbab8d4", image: cert6,
+    title: "Structuring Machine Learning Projects", link: "https://coursera.org/share/7b8326c8493e68e6f1c1b070aba22adc", image: cert6,
 }, {
     title: "AI for Everyone",
-    link: "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/a96c73c5-e997-5d54-80a0-54f8afa0e457-sohaib-manah-0239280c-b43a-45ac-a4b7-a55c4db1b568-certificate.pdf",
+    link: "https://coursera.org/share/4efdc90ddd178dd0a92bbc248c327de0",
     image: cert7,
 },];
 
