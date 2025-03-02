@@ -107,10 +107,10 @@ const cert_content = [{
 //     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png",
 // },{
     title: "Deep Learning Specialization",
-    link: "https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png",
+    link: "https://coursera.org/share/e2fd2906f49b6fda3f174304666bfa49",
     image: cert1,
 }, {
-    title: "Google Cloud Fundamentals: Core Infrastructure", link: 'https://coursera.org/share/a92c70e92b02890f7d7a5ab3deb418ab', image: cert8
+    title: "Google Cloud Fundamentals: Core Infrastructure", link: 'https://coursera.org/share/5a6a00aada19ba62d54079c48b48a7bc', image: cert8
 }, {
     title: "Generative AI for Everyone", image: cert2, link: "https://learn.mongodb.com/c/lkxA2J6RTE2Ash0IL--EtA",
 }, {
