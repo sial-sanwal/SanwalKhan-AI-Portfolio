@@ -150,7 +150,7 @@ export const content = {
             }, {
                 name: "Retrieval-Augmented Generation (RAG)", para: "Enhancing LLMs with external knowledge retrieval.", logo: typescript,
             }, {
-                name: "Python", para: "Python with microservices architecture, Flask, and FastAPI.", logo: python,
+                name: "Python", para: "Proficient in Python for AI, machine learning, and data science, utilizing libraries like TensorFlow, PyTorch, and Pandas.", logo: python,
             }, {
                 name: "Data Science & Analytics", para: "Analyzing complex datasets to derive actionable insights and build predictive models that inform strategic decisions.", logo: nodejs,
             }, {
