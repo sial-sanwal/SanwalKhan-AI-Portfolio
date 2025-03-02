@@ -144,18 +144,18 @@ export const content = {
             title: "Skills", subtitle: "MY TOP SKILLS", skills_content: [{
                 name: "AI & Machine Learning", para: "with microservices architecture and grpc and actix-web", logo: rust,
             }, {
-                name: "Large Language Models (LLMs)", para: "university projects | data structures & algorithms | OOP", logo: cpp,
+                name: "Large Language Models (LLMs)", para: "Fine-tuning and deploying LLMs like GPT, LLaMA, and Mistral.", logo: cpp,
             }, {
-                name: "Agentic AI Systems", para: "Swing (Desktop Graphical User Interface)", logo: java,
+                name: "Agentic AI Systems", para: "Building AI-powered agents for autonomous workflows.", logo: java,
             }, {
-                name: "Retrieval-Augmented Generation (RAG)", para: "with React & Next js & Node js", logo: typescript,
+                name: "Retrieval-Augmented Generation (RAG)", para: "Enhancing LLMs with external knowledge retrieval.", logo: typescript,
             }, {
                 name: "Python", para: "Python with microservices architecture, Flask, and FastAPI.", logo: python,
             }, {
                 name: "Data Science & Analytics", para: "with  Rest Api |  GraphQL | Grpc", logo: nodejs,
             }, {
-                name: "Data Structure | Problem Solving | Graph Theory",
-                para: "in c & c++ & java & javascript",
+                name: "FastAPI & Flask",
+                para: "Building high-performance APIs for AI services.",
                 logo: datastructure,
             }, {
                 name: "Spring",
@@ -168,8 +168,8 @@ export const content = {
             }, {
                 name: "Microsoft Azure", para: "with Azure blob storage & Azure VM & Azure App Service", logo: azure,
             }, {
-                name: "Oracle Cloud Infrastructure",
-                para: "Familiar with all oracle cloud services and solutions",
+                name: "Cloud-Based AI Deployment",
+                para: "Deploying AI models on AWS, GCP, and Azure.",
                 logo: oci,
             }, {
                 name: "Docker", para: "with kubernetes , jenkins , portainer", logo: docker,
@@ -180,9 +180,9 @@ export const content = {
             }, {
                 name: "MySql | PostgresSql", para: "and relational data modeling with UML & ERD & MERISE ", logo: mysql,
             }, {
-                name: "Redis", para: "for caching and session management", logo: redis,
+                name: "LangChain & LLaMA Index", para: "Building intelligent AI-powered applications.", logo: redis,
             }, {
-                name: "Computer Vision", para: "with pl/sql, stored procedures, triggers, functions, views", logo: oracle,
+                name: "Computer Vision", para: "Computer vision tasks like object detection and segmentation., views", logo: oracle,
             }, {
                 name: "Hugging Face Transformers",
                 para: "I like to work in a team and I am a good communicator",
