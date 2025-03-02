@@ -219,23 +219,23 @@ export const content = {
             ],
         }, Testimonials: {
             title: "Testimonials", subtitle: "MY CLIENT REVIEWS", testimonials_content: [{
-                review: "“Sohaib was terrific, did a great job understanding my projects' needs, and delivered super fast! I highly recommend his services.”",
+                review: "Sanwal was outstanding! He quickly understood my project's requirements and delivered exceptional results with impressive speed. I highly recommend his expertise and services!”",
                 img: avatar3,
                 name: "jean V. Fiver Client",
                 rating: 5
 
             }, {
-                review: "“I wanted to take a moment to share my positive experience with Sohaib, whom I recently hired to assist with our company's rebranding effort. ”",
+                review: "“I wanted to take a moment to share my positive experience with Sanwal, whom I recently hired to assist with our AI-driven project. His expertise and dedication were truly impressive!  ”",
                 img: avatar3,
                 name: "khalid D. Fiver Client",
                 rating: 5
             }, {
-                review: "“Thank you for reaching out and for your great work . we are very satisfied with the final product.Your expertise and professionalism were invaluable to our project, and I have no doubt that you will continue to provide excellent services ”",
+                review: "“Thank you for your outstanding work and dedication, Sanwal! We are extremely satisfied with the final product. Your expertise and professionalism were invaluable to our project, and we have no doubt that you will continue to deliver exceptional services. ”",
                 img: avatar1,
                 name: "Mohamed E. Bougeons ensemble's designer ",
                 rating: 5
             }, {
-                review: "“I know how important it is to work with reliable, flexible, and responsive individuals, and Sohaib certainly demonstrated these qualities throughout the entire project.  Their expertise and attention to detail were invaluable”",
+                review: "“I know how important it is to work with reliable, flexible, and responsive individuals, and Sanwal truly exemplified these qualities throughout the entire project. His expertise and attention to detail were invaluable”",
                 img: avatar2,
                 name: "Manal Z. It Geeks's team leader",
                 rating: 5
