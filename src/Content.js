@@ -142,17 +142,17 @@ export const content = {
             },],
         }, skills: {
             title: "Skills", subtitle: "MY TOP SKILLS", skills_content: [{
-                name: "Rust", para: "with microservices architecture and grpc and actix-web", logo: rust,
+                name: "AI & Machine Learning", para: "with microservices architecture and grpc and actix-web", logo: rust,
             }, {
-                name: "c | c++", para: "university projects | data structures & algorithms | OOP", logo: cpp,
+                name: "Large Language Models (LLMs)", para: "university projects | data structures & algorithms | OOP", logo: cpp,
             }, {
-                name: "Java", para: "Swing (Desktop Graphical User Interface)", logo: java,
+                name: "Agentic AI Systems", para: "Swing (Desktop Graphical User Interface)", logo: java,
             }, {
-                name: "TypeScript | JavaScript", para: "with React & Next js & Node js", logo: typescript,
+                name: "Retrieval-Augmented Generation (RAG)", para: "with React & Next js & Node js", logo: typescript,
             }, {
                 name: "Python", para: "Python with microservices architecture, Flask, and FastAPI.", logo: python,
             }, {
-                name: "Node js | Express.js ", para: "with  Rest Api |  GraphQL | Grpc", logo: nodejs,
+                name: "Data Science & Analytics", para: "with  Rest Api |  GraphQL | Grpc", logo: nodejs,
             }, {
                 name: "Data Structure | Problem Solving | Graph Theory",
                 para: "in c & c++ & java & javascript",
@@ -182,9 +182,9 @@ export const content = {
             }, {
                 name: "Redis", para: "for caching and session management", logo: redis,
             }, {
-                name: "oracle DBA", para: "with pl/sql, stored procedures, triggers, functions, views", logo: oracle,
+                name: "Computer Vision", para: "with pl/sql, stored procedures, triggers, functions, views", logo: oracle,
             }, {
-                name: "teamwork | communication",
+                name: "Hugging Face Transformers",
                 para: "I like to work in a team and I am a good communicator",
                 logo: teamwork,
             }, {
