@@ -157,11 +157,11 @@ export const content = {
                 name: "FastAPI & Flask",
                 para: "Building scalable and efficient APIs with FastAPI and Flask for AI and machine learning applications.",
                 logo: datastructure,
-            }, {
-                name: "Spring",
-                para: "J2EE , spring boot, spring security , spring data , spring cloud, eureka",
-                logo: spring,
-            }, {
+            // }, {
+            //     name: "Spring",
+            //     para: "J2EE , spring boot, spring security , spring data , spring cloud, eureka",
+            //     logo: spring,
+            // }, {
                 name: "Linux servers management",
                 para: "Managing Linux servers for deploying AI models and ensuring secure, reliable, and high-performance operations.",
                 logo: linux,
@@ -172,12 +172,12 @@ export const content = {
                 para: "Deploying AI models on cloud platforms like AWS, Azure, and GCP for scalable, robust solutions.",
                 logo: oci,
             }, {
-                name: "Docker", para: "with kubernetes , jenkins , portainer", logo: docker,
+                name: "Docker", para: "Containerizing AI applications with Docker for seamless deployment, scalability, and environment consistency.", logo: docker,
             }, {
                 name: "Git | GitHub", para: "Managing codebase with Git and GitHub, enabling version control and efficient collaboration on AI projects.", logo: git,
-            }, {
-                name: "MongoDB associate developer", para: "in NodeJs", logo: mongodb,
-            }, {
+            // }, {
+            //     name: "MongoDB associate developer", para: "in NodeJs", logo: mongodb,
+            // }, {
                 name: "MySql | PostgresSql", para: "and relational data modeling with UML & ERD & MERISE ", logo: mysql,
             }, {
                 name: "LangChain & LLaMA Index", para: "Utilizing LangChain and LLaMA Index for enhanced language model integration with external data sources.", logo: redis,
