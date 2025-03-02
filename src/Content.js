@@ -163,13 +163,13 @@ export const content = {
                 logo: spring,
             }, {
                 name: "Linux servers management",
-                para: "Familiar with bash scripting & system administration basics",
+                para: "Managing Linux servers for deploying AI models and ensuring secure, reliable, and high-performance operations.",
                 logo: linux,
             }, {
                 name: "Microsoft Azure", para: "with Azure blob storage & Azure VM & Azure App Service", logo: azure,
             }, {
                 name: "Cloud-Based AI Deployment",
-                para: "Deploying AI models on AWS, GCP, and Azure.",
+                para: "Deploying AI models on cloud platforms like AWS, Azure, and GCP for scalable, robust solutions.",
                 logo: oci,
             }, {
                 name: "Docker", para: "with kubernetes , jenkins , portainer", logo: docker,
