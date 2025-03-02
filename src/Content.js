@@ -110,17 +110,17 @@ const cert_content = [{
     link: "https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png",
     image: cert1,
 }, {
-    title: "Agile Project Management", link: 'https://coursera.org/share/a92c70e92b02890f7d7a5ab3deb418ab', image: cert8
+    title: "Google Cloud Fundamentals: Core Infrastructure", link: 'https://coursera.org/share/a92c70e92b02890f7d7a5ab3deb418ab', image: cert8
 }, {
     title: "Generative AI for Everyone", image: cert2, link: "https://learn.mongodb.com/c/lkxA2J6RTE2Ash0IL--EtA",
 }, {
-    title: "Postman API Fundamentals Student Expert",
+    title: "Python Data Structures",
     link: "https://badgr.com/public/assertions/JKnbd3dAQwCPpg3dxr1n_A?identity__email=sohaib.manah@etu.uae.ac.ma",
     image: cert5,
 }, {
-    title: "SQL (Advanced)", link: "https://www.hackerrank.com/certificates/3a683fbab8d4", image: cert6,
+    title: "Structuring Machine Learning Projects", link: "https://www.hackerrank.com/certificates/3a683fbab8d4", image: cert6,
 }, {
-    title: "MongoDB Python Developer Path",
+    title: "AI for Everyone",
     link: "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/a96c73c5-e997-5d54-80a0-54f8afa0e457-sohaib-manah-0239280c-b43a-45ac-a4b7-a55c4db1b568-certificate.pdf",
     image: cert7,
 },];
