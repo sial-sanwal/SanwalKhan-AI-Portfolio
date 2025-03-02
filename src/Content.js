@@ -174,13 +174,13 @@ export const content = {
             }, {
                 name: "Docker", para: "with kubernetes , jenkins , portainer", logo: docker,
             }, {
-                name: "Git | GitHub", para: "Familiar with git and github", logo: git,
+                name: "Git | GitHub", para: "Managing codebase with Git and GitHub, enabling version control and efficient collaboration on AI projects.", logo: git,
             }, {
                 name: "MongoDB associate developer", para: "in NodeJs", logo: mongodb,
             }, {
                 name: "MySql | PostgresSql", para: "and relational data modeling with UML & ERD & MERISE ", logo: mysql,
             }, {
-                name: "LangChain & LLaMA Index", para: "Building intelligent AI-powered applications.", logo: redis,
+                name: "LangChain & LLaMA Index", para: "Utilizing LangChain and LLaMA Index for enhanced language model integration with external data sources.", logo: redis,
             }, {
                 name: "Computer Vision", para: "Developing computer vision applications using deep learning for tasks like object detection and image segmentation., views", logo: oracle,
             }, {
