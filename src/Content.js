@@ -152,7 +152,7 @@ export const content = {
             }, {
                 name: "Python", para: "Python with microservices architecture, Flask, and FastAPI.", logo: python,
             }, {
-                name: "Data Science & Analytics", para: "with  Rest Api |  GraphQL | Grpc", logo: nodejs,
+                name: "Data Science & Analytics", para: "Using Pandas, NumPy, and Matplotlib for insights.", logo: nodejs,
             }, {
                 name: "FastAPI & Flask",
                 para: "Building high-performance APIs for AI services.",
