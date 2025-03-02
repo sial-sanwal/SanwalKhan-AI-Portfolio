@@ -81,38 +81,38 @@ const social_media = [{
 //     text: "sohaibesohaib", icon: TbBrandFiverr, link: "https://www.fiverr.com/sohaibesohaib",
 },];
 const cert_content = [{
-    title: "Python",
-    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=62C57609853F17D04BC5C8213FE5F74514586122F8FA58C788102AFC03DFE33C",
-    image: "https://brm-workforce.oracle.com/pdf/certview/images/OCID2024CP.png",
-},
-{
-    title: "Oracle Certified Professional, Java SE 8 Programmer",
-    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=7150FE2EA98D08F2D32A1F2DD4A5A487B04D95277185B268D04CEE1E1298F3AB",
-    image: "https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE8.png",
-},{
-    title: "Oracle Cloud Infrastructure 2024 Certified DevOps Professional",
-    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=626266EE80DDDC838B6D5FFCD8567ABD36933ADEFF42EF705D948D1147967D74",
-    image:  "https://brm-workforce.oracle.com/pdf/certview/images/OCI2024DOPOCP.png",
-},{
-    title: "Oracle Certified Associate, Java SE 8 Programmer",
-    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D311F9484B6360A03BC18199C0FDBFCD7B252935AB01626B20902BF93BA49DB",
-    image: "https://brm-workforce.oracle.com/pdf/certview/images/OCAJSE8.png",
-},{
-    title: "Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate",
-    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=2766D12BC1722B59E051F38F5B122C78B2119732F2AF774A430314D257CF0B5F",
-    image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png",
-},{
-    title: "Oracle Cloud Infrastructure 2024 Certified Foundations Associate",
-    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=626266EE80DDDC838B6D5FFCD8567ABD04D625908DC961DB0D8583FF3C5E80D4",
-    image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png",
-},{
-    title: "MongoDB Associate Developer",
+//     title: "Python",
+//     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=62C57609853F17D04BC5C8213FE5F74514586122F8FA58C788102AFC03DFE33C",
+//     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCID2024CP.png",
+// },
+// {
+//     title: "Oracle Certified Professional, Java SE 8 Programmer",
+//     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=7150FE2EA98D08F2D32A1F2DD4A5A487B04D95277185B268D04CEE1E1298F3AB",
+//     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE8.png",
+// },{
+//     title: "Oracle Cloud Infrastructure 2024 Certified DevOps Professional",
+//     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=626266EE80DDDC838B6D5FFCD8567ABD36933ADEFF42EF705D948D1147967D74",
+//     image:  "https://brm-workforce.oracle.com/pdf/certview/images/OCI2024DOPOCP.png",
+// },{
+//     title: "Oracle Certified Associate, Java SE 8 Programmer",
+//     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D311F9484B6360A03BC18199C0FDBFCD7B252935AB01626B20902BF93BA49DB",
+//     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCAJSE8.png",
+// },{
+//     title: "Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate",
+//     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=2766D12BC1722B59E051F38F5B122C78B2119732F2AF774A430314D257CF0B5F",
+//     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png",
+// },{
+//     title: "Oracle Cloud Infrastructure 2024 Certified Foundations Associate",
+//     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=626266EE80DDDC838B6D5FFCD8567ABD04D625908DC961DB0D8583FF3C5E80D4",
+//     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI2024FNDCFA.png",
+// },{
+    title: "Deep Learning Specialization",
     link: "https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png",
     image: cert1,
 }, {
     title: "Agile Project Management", link: 'https://coursera.org/share/a92c70e92b02890f7d7a5ab3deb418ab', image: cert8
 }, {
-    title: "MongoDB Data Modeling", image: cert2, link: "https://learn.mongodb.com/c/lkxA2J6RTE2Ash0IL--EtA",
+    title: "Generative AI for Everyone", image: cert2, link: "https://learn.mongodb.com/c/lkxA2J6RTE2Ash0IL--EtA",
 }, {
     title: "Postman API Fundamentals Student Expert",
     link: "https://badgr.com/public/assertions/JKnbd3dAQwCPpg3dxr1n_A?identity__email=sohaib.manah@etu.uae.ac.ma",
