@@ -149,8 +149,18 @@ export const content = {
                 name: "Agentic AI Systems", para: "Designing autonomous AI systems that perform intelligent decision-making and task execution with minimal human intervention.", logo: java,
             }, {
                 name: "Retrieval-Augmented Generation (RAG)", para: "Enhancing language models with RAG techniques to improve text generation by integrating external data sources.", logo: typescript,
-            }, {
+            }, 
+            {
+                name: "LangChain & LLaMA Index", para: "Utilizing LangChain and LLaMA Index for enhanced language model integration with external data sources.", logo: redis,
+            },{
                 name: "Python", para: "Proficient in Python for AI, machine learning, and data science, utilizing libraries like TensorFlow, PyTorch, and Pandas.", logo: python,
+            },
+            {
+                name: "Computer Vision", para: "Developing computer vision applications using deep learning for tasks like object detection and image segmentation.", logo: oracle,
+            }, {
+                name: "Hugging Face Transformers",
+                para: "Hugging Face Transformers for cutting-edge NLP tasks, including classification, summarization, and conversational AI.",
+                logo: teamwork,
             }, {
                 name: "Data Science & Analytics", para: "Analyzing complex datasets to derive actionable insights and build predictive models that inform strategic decisions.", logo: nodejs,
             }, {
@@ -171,7 +181,8 @@ export const content = {
                 name: "Cloud-Based AI Deployment",
                 para: "Deploying AI models on cloud platforms like AWS, Azure, and GCP for scalable, robust solutions.",
                 logo: oci,
-            }, {
+            }, 
+            {
                 name: "Docker", para: "Containerizing AI applications with Docker for seamless deployment, scalability, and environment consistency.", logo: docker,
             }, {
                 name: "Git | GitHub", para: "Managing codebase with Git and GitHub, enabling version control and efficient collaboration on AI projects.", logo: git,
@@ -179,19 +190,14 @@ export const content = {
             //     name: "MongoDB associate developer", para: "in NodeJs", logo: mongodb,
             // }, {
                 name: "MySql | PostgresSql", para: "Designing and managing scalable relational databases for AI applications with efficient querying and data storage.", logo: mysql,
-            }, {
-                name: "LangChain & LLaMA Index", para: "Utilizing LangChain and LLaMA Index for enhanced language model integration with external data sources.", logo: redis,
-            }, {
-                name: "Computer Vision", para: "Developing computer vision applications using deep learning for tasks like object detection and image segmentation.", logo: oracle,
-            }, {
-                name: "Hugging Face Transformers",
-                para: "Hugging Face Transformers for cutting-edge NLP tasks, including classification, summarization, and conversational AI.",
-                logo: teamwork,
-            }, {
-                name: "Scrum & Agile | UML | Data Modeling(Sql & NoSql)",
-                para: "Project management and Software Design",
+            }, 
+              {
+                name: "Vector Databases",
+                para: "Optimizing AI retrieval systems with efficient similarity search and storage for embeddings, enabling fast and accurate data retrieval in LLM and RAG applications.",
                 logo: uml,
-            },],
+            }
+            ,
+        ],
         }, services: {
             title: "Services", subtitle: "WHAT I OFFER", service_content: [{
                 title: " LLMs (Large Language Models) Development",
