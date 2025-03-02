@@ -178,7 +178,7 @@ export const content = {
             // }, {
             //     name: "MongoDB associate developer", para: "in NodeJs", logo: mongodb,
             // }, {
-                name: "MySql | PostgresSql", para: "and relational data modeling with UML & ERD & MERISE ", logo: mysql,
+                name: "MySql | PostgresSql", para: "Designing and managing scalable relational databases for AI applications with efficient querying and data storage.", logo: mysql,
             }, {
                 name: "LangChain & LLaMA Index", para: "Utilizing LangChain and LLaMA Index for enhanced language model integration with external data sources.", logo: redis,
             }, {
