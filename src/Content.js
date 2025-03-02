@@ -166,7 +166,7 @@ export const content = {
                 para: "Managing Linux servers for deploying AI models and ensuring secure, reliable, and high-performance operations.",
                 logo: linux,
             }, {
-                name: "Microsoft Azure", para: "with Azure blob storage & Azure VM & Azure App Service", logo: azure,
+                name: "Microsoft Azure", para: "Deploying AI solutions with Azure Blob Storage, Virtual Machines, and App Services for scalable and secure cloud-based applications.", logo: azure,
             }, {
                 name: "Cloud-Based AI Deployment",
                 para: "Deploying AI models on cloud platforms like AWS, Azure, and GCP for scalable, robust solutions.",
@@ -182,7 +182,7 @@ export const content = {
             }, {
                 name: "LangChain & LLaMA Index", para: "Utilizing LangChain and LLaMA Index for enhanced language model integration with external data sources.", logo: redis,
             }, {
-                name: "Computer Vision", para: "Developing computer vision applications using deep learning for tasks like object detection and image segmentation., views", logo: oracle,
+                name: "Computer Vision", para: "Developing computer vision applications using deep learning for tasks like object detection and image segmentation.", logo: oracle,
             }, {
                 name: "Hugging Face Transformers",
                 para: "Hugging Face Transformers for cutting-edge NLP tasks, including classification, summarization, and conversational AI.",
