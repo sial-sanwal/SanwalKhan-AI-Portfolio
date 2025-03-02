@@ -303,7 +303,7 @@ export const content = {
                     name: "Git | GitHub", para: "Connaissance de git and github", logo: git,
                 }, {
                     name: "Microsoft Azure",
-                    para: "avec Azure blob storage & Azure VM & Azure App Service",
+                    para: "Deploying AI solutions with Azure Blob Storage, Virtual Machines, and App Services for scalable and secure cloud-based applications.",
                     logo: azure,
                 }, {
                     name: "Oracle Cloud Infrastructure ( Associate level )",
