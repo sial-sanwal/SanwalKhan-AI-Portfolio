@@ -182,10 +182,10 @@ export const content = {
             }, {
                 name: "LangChain & LLaMA Index", para: "Building intelligent AI-powered applications.", logo: redis,
             }, {
-                name: "Computer Vision", para: "Computer vision tasks like object detection and segmentation., views", logo: oracle,
+                name: "Computer Vision", para: "Developing computer vision applications using deep learning for tasks like object detection and image segmentation., views", logo: oracle,
             }, {
                 name: "Hugging Face Transformers",
-                para: "I like to work in a team and I am a good communicator",
+                para: "Hugging Face Transformers for cutting-edge NLP tasks, including classification, summarization, and conversational AI.",
                 logo: teamwork,
             }, {
                 name: "Scrum & Agile | UML | Data Modeling(Sql & NoSql)",
