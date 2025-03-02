@@ -152,10 +152,10 @@ export const content = {
             }, {
                 name: "Python", para: "Python with microservices architecture, Flask, and FastAPI.", logo: python,
             }, {
-                name: "Data Science & Analytics", para: "Using Pandas, NumPy, and Matplotlib for insights.", logo: nodejs,
+                name: "Data Science & Analytics", para: "Analyzing complex datasets to derive actionable insights and build predictive models that inform strategic decisions.", logo: nodejs,
             }, {
                 name: "FastAPI & Flask",
-                para: "Building high-performance APIs for AI services.",
+                para: "Building scalable and efficient APIs with FastAPI and Flask for AI and machine learning applications.",
                 logo: datastructure,
             }, {
                 name: "Spring",
