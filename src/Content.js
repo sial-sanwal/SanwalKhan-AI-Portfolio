@@ -214,14 +214,34 @@ export const content = {
             },],
         }, Projects: {
             title: "Projects", subtitle: "MY CREATION", project_content: [{
-                title: "SaaS Insurance Platform for Football Clubs using machine learning and blockchain",
+                title: "End-to-End-AI-Agent-Chatbot-with-FastAPI-LangGraph-Langchain-GenAI-App",
                 image: aman,
                 githubLink: "https://github.com/2aman-lafr9a",
             }, {
-                title: "Freelance website -- 'bricoll'",
+                title: "Potato Leaf Disease Classification",
                 image: bricoll,
                 githubLink: "https://github.com/sohaibMan/bricoll",
             },
+            {
+                title: "Real-Time Object Detection with YOLO",
+                image: bricoll,
+                githubLink: "https://github.com/sohaibMan/bricoll",
+            },
+            {
+                title: "AI Speech Therapist",
+                image: bricoll,
+                githubLink: "https://github.com/sohaibMan/bricoll",
+            },
+            {
+                title: "Custom LLM Fine-Tuning for NLP",
+                image: bricoll,
+                githubLink: "https://github.com/sohaibMan/bricoll",
+            },
+            {
+                title: "Cloud-Based AI Model Deployment",
+                image: bricoll,
+                githubLink: "https://github.com/sohaibMan/bricoll",
+            }
             ],
         }, Testimonials: {
             title: "Testimonials", subtitle: "MY CLIENT REVIEWS", testimonials_content: [{
