@@ -211,7 +211,13 @@ export const content = {
                 title: "Data Science & Machine Learning Solutions",
                 para: "Using Python, I apply data science techniques and machine learning algorithms to extract insights, predict trends, and create data-driven solutions. Whether it’s data cleaning, modeling, or visualization, I turn complex data into actionable insights to support decision-making.",
                 logo: services_logo3,
-            },],
+            },
+            
+            
+        
+        
+        
+        ],
         }, Projects: {
             title: "Projects", subtitle: "MY CREATION", project_content: [{
                 title: "End-to-End-AI-Agent-Chatbot-with-FastAPI-LangGraph-Langchain-GenAI-App",
