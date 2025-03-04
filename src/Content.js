@@ -19,6 +19,8 @@ import oci from "./assets/images/Skills/azure.png";
 import docker from "./assets/images/Skills/docker.png";
 import redis from "./assets/images/Skills/redis.png";
 import oracle from "./assets/images/Skills/oracle.png";
+import ai from "./assets/images/Skills/ai.png";
+
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -142,7 +144,7 @@ export const content = {
             },],
         }, skills: {
             title: "Skills", subtitle: "MY TOP SKILLS", skills_content: [{
-                name: "AI & Machine Learning", para: "Expertise in developing and deploying AI models to solve complex tasks with advanced algorithms and data-driven insights.", logo: rust,
+                name: "AI & Machine Learning", para: "Expertise in developing and deploying AI models to solve complex tasks with advanced algorithms and data-driven insights.", logo: ai,
             }, {
                 name: "Large Language Models (LLMs)", para: "Skilled in fine-tuning LLMs for NLP tasks like text generation, question answering, and summarization.", logo: cpp,
             }, {
