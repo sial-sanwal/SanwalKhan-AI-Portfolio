@@ -136,6 +136,7 @@ export const content = {
             //btnText: "View my resume",
             //btnLink: "https://www.canva.com/design/DAFltazUEpM/1HUGhv9zLupr7TU3NbZ68w/view",
             image: Hero_person,
+            
             hero_content: [{
                 count: `+${new Date(new Date() - new Date("2022-01-01")).getFullYear() - 1970}`,
                 text: "Years of experience in AI development, GenAI & cloud-based AI solutions.",
